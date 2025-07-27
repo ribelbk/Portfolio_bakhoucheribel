@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Portfolio_bakhoucheribel/static/css/main.cf3b573a.css",
+    "main.js": "/Portfolio_bakhoucheribel/static/js/main.a4acbeed.js",
+    "static/css/64.bba8fa55.chunk.css": "/Portfolio_bakhoucheribel/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/Portfolio_bakhoucheribel/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/Portfolio_bakhoucheribel/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/Portfolio_bakhoucheribel/static/js/769.bda0d7b7.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/Portfolio_bakhoucheribel/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/Portfolio_bakhoucheribel/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/personalProjectLogo.png": "/Portfolio_bakhoucheribel/static/media/personalProjectLogo.6ed94feba36b6a600c8d.png",
+    "static/media/manOnTable.svg": "/Portfolio_bakhoucheribel/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/laboLiaLogo.png": "/Portfolio_bakhoucheribel/static/media/laboLiaLogo.c34cfae568c4bae63d16.png",
+    "static/media/contactMailDark.svg": "/Portfolio_bakhoucheribel/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/Portfolio_bakhoucheribel/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/avignonLogo.png": "/Portfolio_bakhoucheribel/static/media/avignonLogo.fa67a9b2dee672ad16ca.png",
+    "static/media/roboticsLogo.png": "/Portfolio_bakhoucheribel/static/media/roboticsLogo.408a2aec7f4acf293ac4.png",
+    "static/media/skill.svg": "/Portfolio_bakhoucheribel/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/Portfolio_bakhoucheribel/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/Portfolio_bakhoucheribel/index.html",
+    "static/media/talksCardBack.svg": "/Portfolio_bakhoucheribel/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.cf3b573a.css.map": "/Portfolio_bakhoucheribel/static/css/main.cf3b573a.css.map",
+    "main.a4acbeed.js.map": "/Portfolio_bakhoucheribel/static/js/main.a4acbeed.js.map",
+    "64.bba8fa55.chunk.css.map": "/Portfolio_bakhoucheribel/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/Portfolio_bakhoucheribel/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/Portfolio_bakhoucheribel/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/Portfolio_bakhoucheribel/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf3b573a.css",
+    "static/js/main.a4acbeed.js"
+  ]
+}
