@@ -190,7 +190,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "Quelques startups et entreprises auxquelles j’ai contribué à créer leur technologie",
   projects: [
     {
       image: require("./assets/images/roboticsLogo.png"), // remplace par un logo ou image pertinente
